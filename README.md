@@ -10,6 +10,13 @@
 ## Link for content : [Get to know Github](https://whimsical.com/gitbranches-3DP5Hsv3VZbybWcQ4mP6NR)
 <br>
 
+
+### AIT Repositories participating in Hacktoberfest
+
+| Repo Name  | Maintainer | Repo Link   |
+|---|---|---|
+| `Web-hacktoberfest2022`  | [DSC AIT PUNE](https://github.com/DSC-AIT-Pune)  | [Voice Based Travel Booking App](https://github.com/DSC-AIT-Pune/Voice_based-ticket-booking-App)  |
+
 ❯ [Register on Hacktoberfest](https://hacktoberfest.digitalocean.com/) 👀
 
 ❯ [Your First PR](#your-first-pr) 🔥
