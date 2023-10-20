@@ -256,9 +256,9 @@ Commit Message should reflect the work you have done (resolve bug or add feature
 
 ## Your First PR
 
-DSC AIT brings you an opportunity to do a single PR in our repository
+DSC AIT brings you an opportunity to do a single PR in our repository in Hacktoberfest 2k23
 
-**Here's our github repo: [GDSC AIT Text Editor](https://github.com/DSC-AIT-Pune/Web-hacktoberfest2022)**
+**Here's our github repo: [Voice Travel Booking App](https://github.com/DSC-AIT-Pune/Voice_based-ticket-booking-App)**
 
 
 
