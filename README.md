@@ -15,6 +15,7 @@
 
 | Repo Name  | Maintainer | Repo Link   |
 |---|---|---|
+| `hacktoberfest2023`  | [DSC AIT PUNE](https://github.com/DSC-AIT-Pune)  | [Resources related to HacktoberFest](https://github.com/DSC-AIT-Pune/HACKTOBERFEST-2K23)  |
 | `Web-hacktoberfest2023`  | [DSC AIT PUNE](https://github.com/DSC-AIT-Pune)  | [Voice Based Travel Booking App](https://github.com/DSC-AIT-Pune/Voice_based-ticket-booking-App)  |
 
 ❯ [Register on Hacktoberfest](https://hacktoberfest.digitalocean.com/) 👀
